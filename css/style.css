@@ -112,7 +112,10 @@ main section.banner p a.botao {
     border-radius: 6px;
     display: inline-block;
 }
-
+main section.banner img {
+    width: 80%;
+    max-width: 800px;
+}
 
 /*========================== 
         SECTION.PRODUCTS 
